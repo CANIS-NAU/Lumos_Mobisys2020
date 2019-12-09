@@ -10,7 +10,7 @@ URL: <https://youtu.be/EIOQAqoJxG4>
 
 ## Lumos-app
 
-Lumos-app is built on the top of SUGILITE that is tasking automation tool (<https://github.com/tobyli/Sugilite_development>).
+Lumos-app is built on the top of SUGILITE that is a tasking automation tool (<https://github.com/tobyli/Sugilite_development>).
 
 - Minimum requirements: Android 6.0.1 (Marshmallow)
 - Used IDE: Android studio 3.1.
