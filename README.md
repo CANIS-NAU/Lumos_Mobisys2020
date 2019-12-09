@@ -4,9 +4,13 @@ This is a public repository for Lumos that is a system to support interoperation
 
 Lumos has three components: 1) application analysis module, Lumos-gateway, and Lumos-app. Thus, you can access to those comonents in this repository. Now, I will explain the requirements of Lumos and how to use it.
 
+## Demo video
+Our demo video presents an interoperation scenario with Lumos-app, which is to turn off a bulb in the living room when playing a Netflix movie on the TV connected to Chromecast.
+URL: <https://github.com/tobyli/Sugilite_development>
+
 ## Lumos-app
 
-Lumos-app is built on the top of SUGILITE that is tasking automation tool (<https://github.com/tobyli/Sugilite_development>).
+Lumos-app is built on the top of SUGILITE that is tasking automation tool (<https://youtu.be/EIOQAqoJxG4>).
 
 - Minimum requirements: Android 6.0.1 (Marshmallow)
 - Used IDE: Android studio 3.1.
