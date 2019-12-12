@@ -6,7 +6,7 @@ Lumos has three components: 1) application analysis module, Lumos-gateway, and L
 
 ## Demo video
 Our demo video presents an interoperation scenario with Lumos-app, which is to turn off a bulb in the living room when playing a Netflix movie on the TV connected to Chromecast.
-URL: <https://youtu.be/EIOQAqoJxG4>
+URL: <https://youtu.be/3tnK_0_45vA>
 
 ## Lumos-app
 
