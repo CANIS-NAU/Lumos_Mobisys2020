@@ -1,4 +1,4 @@
-# Lumos
+# Lumos overview
 
 This is a public repository for Lumos that is a system to support interoperation among IoT devices which are not co-operable.  Its goal is to provide researchers and practitioners with a tool and library on which they can base their own research projects. Our tool has many program analysis techniques such as static taint analysis, dynamic UI analysis, and network message learning. We hope this research contribute to another research.
 
